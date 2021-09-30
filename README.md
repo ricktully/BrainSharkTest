@@ -42,5 +42,5 @@ Change the AttachDbFile name to the full path of the BrainWare.mdf file (located
 ### Refactor Changes
 - set MVC project to sartup project
 - Converted project to ASP Core 3.1 and took advantage of dependency injection
-- Added EF Core to take advantage of functionaity including migration tracking
-- Implemented Unit Of Work / Repo pattern to keep queries within same transaction and to allow a point of implemtation for pagination
+- Added EF Core to take advantage of functionality including migration tracking
+- Implemented Unit Of Work / Repo pattern to keep queries within same transaction and to allow a point of implementation for pagination
